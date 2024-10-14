@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 188cccf9d77e7ab41b2645ce316faa17
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - InputField: {instanceID: 0}
+  - WarningText: {instanceID: 0}
+  - AccountCreatedPanel: {instanceID: 0}
+  - CreateAccountPanel: {instanceID: 0}
+  - selectedAccount: {fileID: 981045765695373673, guid: ec557450150cfd8478da3638f953b9d4,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

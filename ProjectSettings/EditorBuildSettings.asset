@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/EntityCache/Resources/Scenes/AccountsMenu.unity
+    guid: df38475434ba4f7498e548b1648c0a05
+  - enabled: 1
+    path: Assets/EntityCache/Resources/Scenes/MainMenu.unity
+    guid: 3473c5ae4659169478e20688aa1d8fe6
+  - enabled: 1
+    path: Assets/EntityCache/Resources/Scenes/SurvivalMode.unity
+    guid: 4aaac1d06a8d2fe49b2f580dcbf0cdf5
+  - enabled: 1
+    path: Assets/EntityCache/Resources/Scenes/LevelsMode.unity
+    guid: 8eced37c41c35694a8eac46bec607cb5
+  - enabled: 1
+    path: Assets/EntityCache/Resources/Scenes/TrophiesMenu.unity
+    guid: 6c97839c26341d440813b0c97aa44c02
+  - enabled: 1
+    path: Assets/EntityCache/Resources/Scenes/Settings.unity
+    guid: b06c5dd55caf3ef4c816de049502327b
+  - enabled: 1
+    path: Assets/EntityCache/Resources/Scenes/Quit.unity
+    guid: 7fa47ccdcb47c634ba3c96cf2b781623
+  - enabled: 1
+    path: Assets/EntityCache/Resources/Scenes/Level1Room1.unity
+    guid: 29b085007431a8a4783490e4eca2e9a3
+  - enabled: 1
+    path: Assets/EntityCache/Resources/Scenes/Level1Room2.unity
+    guid: 0a724e4b0e82a2c4fbe0e8018d410230
+  - enabled: 1
+    path: Assets/EntityCache/Resources/Scenes/Level1Room3.unity
+    guid: a7f586362fd44b149bc34e87e5bd2684
+  - enabled: 1
+    path: Assets/EntityCache/Resources/Scenes/Level1Room4.unity
+    guid: 3fd37e5cf2b3efe46958a1e611cffec3
+  - enabled: 1
+    path: Assets/EntityCache/Resources/Scenes/Level1Room5.unity
+    guid: 83b998a17593eb64abafaafa3d06015a
+  - enabled: 1
+    path: Assets/EntityCache/Resources/Scenes/Level1Boss.unity
+    guid: a68ed60e20938494ab6023239fba04be
+  m_configObjects: {}

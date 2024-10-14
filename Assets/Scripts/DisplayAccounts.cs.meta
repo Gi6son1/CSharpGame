@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 66d56884a698fa6459c4bfa7263e5c7a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - box1: {instanceID: 0}
+  - box2: {instanceID: 0}
+  - box3: {instanceID: 0}
+  - box4: {instanceID: 0}
+  - text1: {instanceID: 0}
+  - text2: {instanceID: 0}
+  - text3: {instanceID: 0}
+  - text4: {instanceID: 0}
+  - currentAccountText: {instanceID: 0}
+  - selectedAccount: {fileID: 981045765695373673, guid: ec557450150cfd8478da3638f953b9d4,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
